@@ -1,9 +1,11 @@
 # Notes on a Guitar
 
-The notes on a guitar are
+The notes on a guitar are:
+
 **A A# B C C# D D# E F F# G G#**
 
 The transitions are as follows:
+
 A -> A# -> B -> C -> C# -> D -> D# -> E -> F -> F# -> G -> G# -> A
 
 >[!IMPORTANT]
