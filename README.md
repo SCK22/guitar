@@ -1,3 +1,9 @@
+# Notes on a Guitar
+A A# B C C# D D# E F F# G G#
+
+>[!IMPORTANT]
+> All note transitions are a full step except for B-C and E-F which are half steps.
+
 # Indian and Western notes mapping
 
 ![image](https://github.com/SCK22/guitar/assets/19945546/9e8359ee-7045-4de3-ab31-1b1126d502a9)
