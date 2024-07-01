@@ -1,5 +1,7 @@
 # Notes on a Guitar
+
 A A# B C C# D D# E F F# G G#
+A -> A# -> B -> C -> C# -> D -> D# -> E -> F -> F# -> G -> G# -> A
 
 >[!IMPORTANT]
 > All note transitions are a full step except for B-C and E-F which are half steps.
