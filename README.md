@@ -1,6 +1,8 @@
 # Notes on a Guitar
 
-A A# B C C# D D# E F F# G G#
+The notes on a guitar are
+ *A A# B C C# D D# E F F# G G#*
+
 A -> A# -> B -> C -> C# -> D -> D# -> E -> F -> F# -> G -> G# -> A
 
 >[!IMPORTANT]
