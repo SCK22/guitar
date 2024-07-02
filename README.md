@@ -14,11 +14,12 @@ A -> A# -> B -> C -> C# -> D -> D# -> E -> F -> F# -> G -> G# -> A
 # Indian and Western notes mapping
 
 ![image](https://github.com/SCK22/guitar/assets/19945546/9e8359ee-7045-4de3-ab31-1b1126d502a9)
-[source](https://www.fender.com/articles/chords/what-is-a-major-chord)
+
 
 # Chords
 ## Major Chords
 ![image](https://github.com/SCK22/guitar/assets/19945546/77ce713c-76b9-4840-93dc-37c2af14a763)
+[source](https://www.fender.com/articles/chords/what-is-a-major-chord)
 
 # Metronome
 For a beginner to an expert guitarist, the metronome speeds can vary significantly. Here’s a general guideline for different skill levels:
